@@ -59,3 +59,5 @@ Após a compilação bem-sucedida, inicie o sistema executando:
 ```powershell
 .\otimizador.exe
 ```
+## Gravação
+A gravação pode ser acessada através do link [https://youtu.be/iqbmZo2gGdE](https://youtu.be/iqbmZo2gGdE)
