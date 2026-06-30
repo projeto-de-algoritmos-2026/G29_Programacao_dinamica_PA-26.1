@@ -8,14 +8,14 @@
 
 | Nome | Matrícula |
 | --- | --- |
-| ALAN FARIAS BRAGA | 251005909 |
-| VILMAR JOSÉ FAGUNDES | 231026590 |
+| Alan Farias Braga | 251005909 |
+| Vilmar José Fagundes | 231026590 |
 
 ## Sobre
 
 **Sistema de Gestão e Otimização de Cronogramas de Estudo**
 
-Este projeto acadêmico foi desenvolvido como requisito de avaliação da disciplina de Projeto de Algoritmos na Universidade de Brasília (UnB). O sistema é uma solução computacional estruturada em **Programação Dinâmica** para otimização de tempo e planejamento acadêmico. 
+Este projeto acadêmico foi desenvolvido com base no conteúdo de **Programação Dinâmica** para otimização de tempo e planejamento acadêmico. 
 
 O software recebe uma grade de atividades fixas e uma lista de tarefas pendentes (como guias de estudo e listas de exercícios para os currículos) e calcula matematicamente a rotina diária mais eficiente, evitando sobreposição de horários e maximizando o aprendizado.
 
